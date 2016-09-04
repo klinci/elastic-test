@@ -6,7 +6,7 @@
 
 1.Clone this repo.
 
-2.Run composer install if no laravel module installed yet.
+2.Run 'composer install'.
 
 2.Run elastic search, I'm using version: 2.3.5.
 
